@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "abhilash.ponnachan@outlook.com",
+    "longName": "Binary Face",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/ROCKB.TTF",
+                "name": "FONT_ROCKB_24",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Binary Face",
+    "uuid": "322dce45-4281-479d-8098-757d2a15f215",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
